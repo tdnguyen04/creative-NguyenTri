@@ -12,10 +12,10 @@ Explore one of the four sites below or another Javascript/Typescript multimedia 
 ### Canvas
 - Go through the [W3 Schools Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp). Implement a web page that draws text and several different polygons in different colors using Canvas - the <canvas> tag. One of the drawn items should include a color gradient.
 ### D3.js
-- Create a single visualization using one of the techniques shown at [d3js.org](d3js.org). 
+- Create a single visualization using one of the techniques shown at [d3js.org](http://d3js.org). 
 - Create a visualization using the one of the datasets found at [Awesome JSON Datasets](https://github.com/jdorfman/Awesome-JSON-Datasets).
 ### Web Audio API
-- Create a screen-based musical instrument using the Web Audio API. You can use projects such as [Interface.js](http://charlie-roberts.com/interface/) or [Nexus UI](https://nexus-js.github.io/ui/api/#Piano) to provide common musical interface elements, or use dat.GUI in combination with mouse/touch events (use the Pointer Events API). If you want to use higher-level instruments instead of the raw WebAudio API sounds, consider trying the instruments provided by [Tone.js]() or [Gibber](https://github.com/charlieroberts/gibber.audio.lib).
+- Create a screen-based musical instrument using the Web Audio API. You can use projects such as [Interface.js](http://charlie-roberts.com/interface/) or [Nexus UI](https://nexus-js.github.io/ui/api/#Piano) to provide common musical interface elements, or use dat.GUI in combination with mouse/touch events (use the Pointer Events API). If you want to use higher-level instruments instead of the raw WebAudio API sounds, consider trying the instruments provided by [Tone.js](https://tonejs.github.io/) or [Gibber](https://github.com/charlieroberts/gibber.audio.lib).
 ### Three.js
 - A generative algorithm creates simple agents that move through a virtual world. 
 - A simple 3D game. You really want this to be super simple or it will be outside the scope of this exercise.
