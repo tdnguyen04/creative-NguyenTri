@@ -1,4 +1,4 @@
-Inclass Exercise - Creative Coding: Interactive Multimedia Experiences
+Inclass Exercise - Creative Coding: Interactive Multimedia
 ===
 For this in-class exercise, you will focus on client-side development using popular audio/graphics/visualization technologies. The goal of this assignment is to get aquainted with and explore some multimedia capabilities of the browser.
 
