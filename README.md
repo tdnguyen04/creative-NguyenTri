@@ -6,11 +6,11 @@ Requirements
 ---
 Explore one of the four sites below or another Javascript/Typescript multimedia site of your choice. Take one of their examples, make a slight modification and get it to work using a simple back-end server (node.js, Express, NextJS) that serves just that example page(s). You may work with your teammates but each person has to create their own pages and their own unique code. The following lists some possibilities.
 
-### Canvas
-- Go through the [W3 Schools Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp). Implement a simple program that draws several different polygons in different colors using Canvas - the <canvas> tag. One of the polygons should include a color gradient.
-- If you would like a fun challenge, create a generative algorithm such as [Conway's Game of Life](https://bitstorm.org/gameoflife/) (or 1D cellular automata) and provide some interactive controls. 
 ### SVG
+ - Go through the [W3 Schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp). Implement a web page that draws several different polygons in different colors using Canvas - the <canvas> tag. One of the polygons should include a color gradient. Create a button that when pressed changes either the size and/or position of a polygon. See [SVG Scripting](https://www.w3schools.com/graphics/svg_scripting.asp).
  - Add a simple animated SVG image to a web page. You may want to refer to [Add Animated SVGs to React](https://www.svgator.com/help/getting-started/add-animated-svgs-to-react-website)
+### Canvas
+- Go through the [W3 Schools Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp). Implement a web page that draws text and several different polygons in different colors using Canvas - the <canvas> tag. One of the drawn items should include a color gradient.
 ### D3.js
 - Create a single visualization using one of the techniques shown at [d3js.org](d3js.org). 
 - Create a visualization using the one of the datasets found at [Awesome JSON Datasets](https://github.com/jdorfman/Awesome-JSON-Datasets).
@@ -35,6 +35,6 @@ Sample Readme (delete the above when you're ready to submit, and modify the belo
 
 ## Your Web Application Title
 - your hosting link e.g. http://creative-exercise-githubname.glitch.me
-- list which topics/site you chose to do (Canvas, SVG, D3, Web Audio API, Three.js)
+- list which topic/site you chose to do (Canvas, SVG, D3, Web Audio API, Three.js)
 - include a link to the example(s) that you based your code. If your code is completely original and not based on an example, mention that.
-- if your code is based on an example, state what changes you made
+- if your code is based on an example, state what changes you made. Otherwise describe what your program does.
