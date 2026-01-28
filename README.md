@@ -36,6 +36,7 @@ The following lists some possibilities.
   Events API). If you want to use higher-level instruments instead of the raw WebAudio API sounds, consider trying
   the instruments provided by [Tone.js](https://tonejs.github.io/) or [Gibber](https://github.com/charlieroberts/gibber.audio.lib).
 ### Three.js
+Go to [Three.js](https://threejs.org/examples/) and start with their examples.
 - A generative algorithm creates simple agents that move through a virtual world. 
 - A simple 3D game. You really want this to be super simple or it will be outside the scope of this exercise.
 - An 3D audio visualization of a song of your choosing.
