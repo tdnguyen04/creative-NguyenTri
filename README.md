@@ -12,9 +12,12 @@ code. As a team, you will want to be strategic in splitting up the different sit
 background in the technologies for the final project. Note that the final project will require knowledge of Chart.js!
 The following lists some possibilities.
 
-### Chart.js
+### Chart.js - needed for Final Project (have at least 2 people do this exercise on your team)
 - Go to [Chart.js](https://www.chartjs.org/docs/latest/samples/information.html) and select the type of chart from
   the left menu bar. Create a bar chart, line chart, and a pie chart by making modifications to the sample charts.
+### HTML5 Web Speech API - this is used by those teams interested in implementing a voice interface
+- Go to [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
+  and create the exercise. Modify the exercise so you can also change the color of the text.
 ### SVG
  - Go through the [W3 Schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp). Implement a web page
    that draws several different polygons in different colors using Canvas - the <canvas> tag.
