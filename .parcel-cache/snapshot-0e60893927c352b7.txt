@@ -76,7 +76,7 @@
 62D:\Code\creative-NguyenTri\node_modules\chart.js\auto\auto.cjs134158264944470182 0
 44D:\Code\creative-NguyenTri\node_modules\.bin134158267210101133 1
 72D:\Code\creative-NguyenTri\node_modules\core-js\full\object\is-sealed.js134158267171627054 0
-36D:\Code\creative-NguyenTri\README.md134158263554730591 0
+36D:\Code\creative-NguyenTri\README.md134158272499766280 0
 71D:\Code\creative-NguyenTri\node_modules\ramda\src\internal\_dropLast.js134158267098478582 0
 65D:\Code\creative-NguyenTri\node_modules\core-js\modules\es.set.js134158267142727302 0
 69D:\Code\creative-NguyenTri\node_modules\@parcel\core\lib\constants.js134158267105043362 0
