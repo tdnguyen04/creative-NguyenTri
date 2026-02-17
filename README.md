@@ -1,4 +1,4 @@
-Nguyen, Tri: Render or AWS link
+Nguyen, Tri: https://creative-nguyentri.onrender.com/
 
 ## Bar Chart Simple
 - This project uses Chart.js
